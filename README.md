@@ -15,7 +15,7 @@ Version 1.0 source preview prepared. Public download pending.
 
 | Project | What it does |
 | :--- | :--- |
-| **[NEXTPOST](https://github.com/itsnaveencm/NEXTPOST)** | Android project for tracking recruitment notices, exams, and deadlines. |
+| **[NEXTPOST](https://github.com/itsnaveencm/NEXTPOST)** | Recruitment data feed and automated verification worker for job alerts from official sources. |
 | **[KTU Calc](https://itsnaveencm.github.io/ktu-calculator/)** · [Source](https://github.com/itsnaveencm/ktu-calculator) | Offline-ready academic planner for KTU students. Calculate SGPA and credit-weighted CGPA, or work backward from a target grade. |
 | **Autonomous Water Surface Cleaning Boat** | Catamaran prototype for collecting floating waste using GPS, an IMU, and computer vision. |
 | **Vision Arm** | Robotic-arm prototype designed to identify and sort waste by category. |
