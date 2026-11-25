@@ -4,6 +4,20 @@
 
 I’m an Electronics and Communication Engineering graduate working across native Android, embedded systems, and computer vision. I build applications and prototypes that connect software to the physical world.
 
+## Flagship project · CHRONOS
+
+**A native Android personal assistant for reminders, schedules, and focus timers.**
+
+CHRONOS is built around an event-driven Android background engine. Reminders are stored in Room, scheduled through Android’s alarm APIs, and restored after reboot. The scheduling workflow lets users review an alarm before handing it off to Android Clock.
+
+`Kotlin` · `Jetpack Compose` · `Room` · `AlarmManager`
+
+## NEXTPOST
+
+**An Android app for tracking job and exam updates.** NEXTPOST brings recruitment notices, admit cards, eligibility matching, and saved deadlines into one place.
+
+[Browse NEXTPOST](https://github.com/itsnaveencm/NEXTPOST)
+
 ## KTU Calc
 
 **An installable academic planner for APJ Abdul Kalam Technological University students.**
@@ -16,11 +30,10 @@ KTU Calc combines credit-weighted grade calculations with target planning, a per
 
 `JavaScript` · `HTML` · `CSS` · `Service Worker`
 
-## Android and hardware projects
+## Hardware projects
 
 | Project | Engineering focus |
 | --- | --- |
-| **CHRONOS** · In development | A native Android assistant exploring scheduling, event-driven reminders, local storage, and user-controlled integrations. |
 | **Autonomous Water Surface Cleaning Boat** | A catamaran-style prototype for collecting floating waste. It combines GPS and IMU navigation support, onboard sensing, computer-vision detection, and manual control. |
 | **Vision Arm** | A robotic-arm prototype designed to identify waste categories and support automated sorting. |
 
