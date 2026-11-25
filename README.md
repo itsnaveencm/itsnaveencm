@@ -2,14 +2,16 @@
 
 I build native Android apps and electronics prototypes. My work spans background scheduling, offline web apps, and computer vision for hardware.
 
+**[View Chronos](https://github.com/itsnaveencm/itsnaveencm/blob/main/CHRONOS.md)** · **[View NEXTPOST](https://github.com/itsnaveencm/NEXTPOST)**
+
 ## Flagship
 
-<img src="assets/chronos-flagship.svg" alt="Chronos · Native Android assistant for reminders, smart schedules, and focus timers" width="880">
+[![Chronos · Native Android assistant for reminders, smart schedules, and focus timers](assets/chronos-flagship.svg)](https://github.com/itsnaveencm/itsnaveencm/blob/main/CHRONOS.md)
 
 Chronos keeps reminders in Room and restores upcoming alarms after a reboot. You can review a schedule before sending it to Android Clock, open a date-specific event in Calendar, or start a 15-, 25-, or 45-minute focus timer.
 
 **Kotlin · Jetpack Compose · Room · AlarmManager**  
-Version 1.0 source preview prepared. Public download pending.
+[View the Chronos project overview](https://github.com/itsnaveencm/itsnaveencm/blob/main/CHRONOS.md)
 
 ## More projects
 
