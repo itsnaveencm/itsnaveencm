@@ -1,29 +1,31 @@
 # Naveen C M
 
-**Electronics and Communication Engineering graduate · Android development · Embedded systems**
+![Naveen C M — software, electronics, and the systems between them. A circuit-board illustration connects Android, sensors, and actuators around an NCM processor.](assets/ncm-circuit.svg)
 
-I build practical applications and prototypes that connect software, sensors, and hardware. My current focus is native Android development in Kotlin and hands-on work with embedded systems.
+I’m an Electronics and Communication Engineering graduate working across native Android, embedded systems, and computer vision. I build applications and prototypes that connect software to the physical world.
 
-## Featured project
+## KTU Calc
 
-### KTU Calc
+**An installable academic planner for APJ Abdul Kalam Technological University students.**
 
-An installable web app for APJ Abdul Kalam Technological University students to calculate semester and cumulative grades, estimate the SGPA needed to reach a target CGPA, and save results in the browser.
+![KTU Calc workflow. Calculate semester SGPA from course grades and credits, combine semesters into a credit-weighted CGPA, then estimate the SGPA needed to reach a target.](assets/ktu-workflow.svg)
 
-[Open the live app](https://itsnaveencm.github.io/ktu-calculator/) · [Browse the source](https://github.com/itsnaveencm/ktu-calculator)
+KTU Calc combines credit-weighted grade calculations with target planning, a percentage converter, and calculation history stored on the device. The app runs without an account and uses a service worker for offline access.
 
-**Built with** HTML, CSS, vanilla JavaScript, and a service worker.
+**[Launch KTU Calc](https://itsnaveencm.github.io/ktu-calculator/)** · [Read the source](https://github.com/itsnaveencm/ktu-calculator)
 
-## Other projects
+`JavaScript` · `HTML` · `CSS` · `Service Worker`
 
-| Project | What it does |
+## Android and hardware projects
+
+| Project | Engineering focus |
 | --- | --- |
-| **CHRONOS** · In development | A native Android personal assistant exploring scheduling, event-driven reminders, local storage, and user-controlled integrations. |
-| **Autonomous Water Surface Cleaning Boat** | A catamaran-style prototype for collecting floating waste, combining GPS and IMU navigation support, onboard sensing, computer-vision detection, and manual control. |
+| **CHRONOS** · In development | A native Android assistant exploring scheduling, event-driven reminders, local storage, and user-controlled integrations. |
+| **Autonomous Water Surface Cleaning Boat** | A catamaran-style prototype for collecting floating waste. It combines GPS and IMU navigation support, onboard sensing, computer-vision detection, and manual control. |
 | **Vision Arm** | A robotic-arm prototype designed to identify waste categories and support automated sorting. |
 
 ## Tools
 
-- **Mobile** · Kotlin, Android
-- **Hardware and prototyping** · Arduino, Raspberry Pi, MATLAB
-- **Web and version control** · HTML, CSS, JavaScript, Git
+**Android** · Kotlin, Android SDK  
+**Embedded and prototyping** · Arduino, Raspberry Pi, MATLAB  
+**Web and version control** · HTML, CSS, JavaScript, Git
