@@ -10,7 +10,7 @@ I build practical applications and prototypes that connect software, sensors, an
 
 An installable web app for APJ Abdul Kalam Technological University students to calculate semester and cumulative grades, estimate the SGPA needed to reach a target CGPA, and save results in the browser.
 
-[Open the live app](https://naveencm3852.github.io/ktu-calculator/) · [Browse the source](https://github.com/NaveenCM3852/ktu-calculator)
+[Open the live app](https://itsnaveencm.github.io/ktu-calculator/) · [Browse the source](https://github.com/itsnaveencm/ktu-calculator)
 
 **Built with** HTML, CSS, vanilla JavaScript, and a service worker.
 
