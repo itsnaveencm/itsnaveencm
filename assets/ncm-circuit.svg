@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="412" viewBox="0 0 1120 412" role="img" aria-labelledby="title desc">
+  <title id="title">Naveen C M — software, electronics, and the systems between them</title>
+  <desc id="desc">A custom circuit-board illustration with an NCM processor connected to Android, sensors, and actuators.</desc>
+  <defs>
+    <linearGradient id="board" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#142722"/><stop offset=".62" stop-color="#0b1718"/><stop offset="1" stop-color="#0d171f"/></linearGradient>
+    <linearGradient id="chip" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#1c372f"/><stop offset="1" stop-color="#102520"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#73ad98" stroke-opacity=".13"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1118" height="410" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="412" fill="url(#board)"/>
+    <rect x="596" width="524" height="412" fill="url(#grid)"/>
+    <path d="M0 331H460L551 240H596M0 352H489L568 273H596M0 376H510L582 304H596" fill="none" stroke="#548979" stroke-opacity=".23"/>
+    <path d="M595 0V412" stroke="#609184" stroke-opacity=".35"/>
+    <path d="M635 29h-16v16m452-16h16v16M619 368v16h16m452-16v16h-16" fill="none" stroke="#77ab99" stroke-opacity=".55"/>
+    <path d="M63 80h31" stroke="#a9f4c4" stroke-width="3"/>
+    <text x="108" y="86" fill="#a9f4c4" font-family="monospace" font-size="16" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+    <text x="57" y="176" fill="#f1fbf5" font-family="system-ui, sans-serif" font-weight="740" font-size="78" letter-spacing="-4">Naveen C M</text>
+    <g fill="#b8d0c8" font-family="system-ui, sans-serif" font-size="31" letter-spacing="-.5">
+      <text x="63" y="231">Software, electronics,</text>
+      <text x="63" y="273">and the systems between them.</text>
+    </g>
+    <path d="M63 325h451" stroke="#42665c"/>
+    <text x="63" y="359" fill="#a9f4c4" font-family="monospace" font-size="17" letter-spacing="1.8">ANDROID / EMBEDDED / VISION</text>
+    <g fill="none" stroke="#395f58" stroke-width="2">
+      <path d="M789 166H761L720 125H652M789 184H753L712 143H652M789 200H739L702 163H652M789 217H749L707 259H652M789 235H757L716 276H652M789 252H765L724 293H652"/>
+      <path d="M931 166H972L1003 135H1051M931 184H981L1004 161H1051M931 202H1051M931 219H978L1008 249H1051M931 235H970L1008 273H1051M931 252H960L1005 297H1051"/>
+      <path d="M829 143V110L808 89V53M850 143V93L832 75V53M875 143V91L898 68V53M894 143V108L922 80V53M829 276V312L805 336V363M850 276V327L833 344V363M875 276V326L897 348V363M894 276V307L926 339V363"/>
+    </g>
+    <g fill="#0e2020" stroke="#6c998a" stroke-width="2">
+      <circle cx="652" cy="125" r="4"/><circle cx="652" cy="143" r="4"/><circle cx="652" cy="163" r="4"/>
+      <circle cx="652" cy="259" r="4"/><circle cx="652" cy="276" r="4"/><circle cx="652" cy="293" r="4"/>
+      <circle cx="1051" cy="135" r="4"/><circle cx="1051" cy="161" r="4"/><circle cx="1051" cy="202" r="4"/>
+      <circle cx="1051" cy="249" r="4"/><circle cx="1051" cy="273" r="4"/><circle cx="1051" cy="297" r="4"/>
+      <circle cx="808" cy="53" r="4"/><circle cx="832" cy="53" r="4"/><circle cx="898" cy="53" r="4"/><circle cx="922" cy="53" r="4"/>
+      <circle cx="805" cy="363" r="4"/><circle cx="833" cy="363" r="4"/><circle cx="897" cy="363" r="4"/><circle cx="926" cy="363" r="4"/>
+    </g>
+    <g fill="none" stroke-linecap="round" stroke-width="2.5">
+      <path d="M652 143H712L753 184H789" stroke="#a8f5c0"/>
+      <path d="M652 276H716L757 235H789" stroke="#79daca"/>
+      <path d="M931 219H978L1008 249H1051" stroke="#f2c88c"/>
+    </g>
+    <rect x="788" y="142" width="144" height="135" rx="15" fill="url(#chip)" stroke="#8dc4a8" stroke-width="2"/>
+    <rect x="799" y="153" width="122" height="113" rx="9" fill="none" stroke="#4a7665"/>
+    <circle cx="811" cy="165" r="3" fill="#a8f5c0"/>
+    <text x="860" y="220" fill="#e1f7ea" text-anchor="middle" font-family="monospace" font-weight="700" font-size="38" letter-spacing="3">NCM</text>
+    <g font-family="monospace" font-size="14" letter-spacing="2">
+      <text x="652" y="108" fill="#a8f5c0">ANDROID</text>
+      <text x="652" y="320" fill="#79daca">SENSORS</text>
+      <text x="1056" y="322" text-anchor="end" fill="#f2c88c">ACTUATORS</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1118" height="410" rx="24" fill="none" stroke="#47695f" stroke-width="2"/>
+</svg>
