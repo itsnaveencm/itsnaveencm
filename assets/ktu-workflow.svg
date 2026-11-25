@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="220" viewBox="0 0 1120 220" role="img" aria-labelledby="title">
+  <title id="title">KTU Calc workflow: calculate semester SGPA, combine semesters into CGPA, then plan a target</title>
+  <defs><pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#70988c" opacity=".27"/></pattern></defs>
+  <rect x="1" y="1" width="1118" height="218" rx="20" fill="#10201f" stroke="#486c62" stroke-width="2"/>
+  <rect x="13" y="13" width="1094" height="194" rx="13" fill="url(#dots)"/>
+  <g fill="#152b28" stroke="#496f64" stroke-width="1.5">
+    <rect x="41" y="45" width="304" height="130" rx="14"/>
+    <rect x="408" y="45" width="304" height="130" rx="14"/>
+    <rect x="775" y="45" width="304" height="130" rx="14"/>
+  </g>
+  <g fill="none" stroke="#8bc7af" stroke-width="2">
+    <path d="M345 110h62m-12-6 6 6-6 6m317-6h62m-12-6 6 6-6 6"/>
+    <path d="M287 105h12v33h-12zm18-13h12v46h-12zm18-14h12v60h-12zM650 99h42m-42 14h42m-42 14h42"/>
+    <circle cx="1029" cy="113" r="27"/><circle cx="1029" cy="113" r="17"/><circle cx="1029" cy="113" r="6"/>
+  </g>
+  <g fill="#a9f4c4" font-family="monospace" font-size="14" letter-spacing="2">
+    <text x="65" y="82">COURSES</text><text x="432" y="82">SEMESTERS</text><text x="799" y="82">REMAINING TERMS</text>
+  </g>
+  <g fill="#f1fbf5" font-family="system-ui, sans-serif" font-size="30" font-weight="700">
+    <text x="65" y="119">SGPA</text><text x="432" y="119">CGPA</text><text x="799" y="119">Target</text>
+  </g>
+  <g fill="#bed2cb" font-family="system-ui, sans-serif" font-size="17">
+    <text x="65" y="146">Grades × credits</text><text x="432" y="146">Credit-weighted average</text><text x="799" y="146">Required average SGPA</text>
+  </g>
+</svg>
