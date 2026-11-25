@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="234" viewBox="0 0 880 234">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#243343" stroke-opacity=".65"/></pattern><linearGradient id="bg"><stop stop-color="#0b141d"/><stop offset="1" stop-color="#142a32"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="232" rx="20" fill="url(#bg)" stroke="#334957"/>
+<rect x="2" y="2" width="876" height="230" rx="19" fill="url(#grid)"/>
+<g font-family="system-ui, sans-serif">
+<text x="44" y="64" font-size="19" font-weight="650" fill="#81e6cc">ANDROID · EMBEDDED SYSTEMS · COMPUTER VISION</text>
+<text x="40" y="139" font-size="69" font-weight="750" fill="#f5fafb">Naveen C M</text>
+<text x="44" y="184" font-size="23" fill="#bad0d7">Electronics &amp; Communication Engineering</text>
+</g>
+<g fill="none" stroke="#81e6cc" stroke-width="2">
+<path d="M685 63h116v116H685zM697 75h92v92h-92zM704 63V42h-32m62 21V35m25 28V42h29m-103 59h-27l-17-17h-22m66 49h-32l-18 18h-16m85 28v20h-32m63-20v26m25-26v20h29m12-98h25l18-18h17m-60 50h28l17 17h15"/>
+<circle cx="617" cy="84" r="3"/><circle cx="617" cy="151" r="3"/><circle cx="861" cy="83" r="3"/><circle cx="861" cy="150" r="3"/>
+</g><text x="743" y="132" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="750" fill="#f5fafb">NCM</text>
+</svg>
