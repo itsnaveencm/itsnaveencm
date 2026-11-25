@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="246" viewBox="0 0 880 246">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#243343" stroke-opacity=".65"/></pattern><linearGradient id="bg"><stop stop-color="#0b141d"/><stop offset="1" stop-color="#142a32"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="244" rx="20" fill="url(#bg)" stroke="#334957"/>
+<rect x="2" y="2" width="876" height="242" rx="19" fill="url(#grid)"/>
+<g font-family="system-ui, sans-serif">
+<text x="43" y="67" font-size="19" font-weight="650" fill="#81e6cc">FLAGSHIP ANDROID PROJECT</text>
+<text x="39" y="142" font-size="73" font-weight="750" letter-spacing="3" fill="#f5fafb">CHRONOS</text>
+<text x="43" y="187" font-size="23" fill="#bad0d7">Reminders, smart schedules, and focus timers</text>
+</g>
+<g fill="none" stroke="#81e6cc">
+<circle cx="747" cy="123" r="75" stroke-opacity=".34" stroke-width="2"/>
+<circle cx="747" cy="123" r="59" stroke-width="3"/>
+<path d="M747 72v10m0 82v10m-51-51h10m82 0h10M747 89v34l23 15" stroke-width="3" stroke-linecap="round"/>
+</g><circle cx="747" cy="123" r="4" fill="#f5fafb"/>
+</svg>
